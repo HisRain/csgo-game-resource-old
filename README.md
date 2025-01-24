@@ -5,7 +5,7 @@ Microsoft Visual C++ 2010 运行库 https://www.microsoft.com/zh-cn/download/det
 Microsoft .NET Framework 4 https://www.microsoft.com/zh-cn/download/details.aspx?id=17718  
 最新的DirectX和显卡驱动 https://www.microsoft.com/zh-cn/download/details.aspx?id=35  
 ## 如何下载？
-https://csgo.hr233.top  
+https://github.com/HisRain/csgo-game-resource-old/releases/tag/1.34.0.0  
 https://cloud.189.cn/web/share?code=JJbEVvVR7fEv  （访问码：ttm9）
 #### 此网站可能永远不会更新，并且将会在2027年或更早过期
 # 免责声明
